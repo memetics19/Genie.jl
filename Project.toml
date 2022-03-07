@@ -35,6 +35,7 @@ VersionCheck = "a637dc6b-bca1-447e-a4fa-35264c9d0580"
 YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
 
 [compat]
+AMQPClient = "0.4"
 ArgParse = "1"
 EzXML = "1"
 FilePathsBase = "0.9"
